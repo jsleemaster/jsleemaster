@@ -3,7 +3,7 @@
 
 velog : https://velog.io/@jsleemaster
 <br>
-Email : roeowo123@naver.com
+Email : jsleemaster@gmail.com
 
 ### Tech Stack
 ----
