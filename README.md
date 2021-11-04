@@ -3,7 +3,7 @@
 
 velog : https://velog.io/@jsleemaster
 <br>
-Email : jsleemaster@gmail.com <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=#EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=#EA4335"/> : jsleemaster@gmail.com 
 
 ### Tech Stack
 ----
