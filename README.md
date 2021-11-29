@@ -24,5 +24,5 @@ velog : https://velog.io/@jsleemaster
           
 <img src="https://img.shields.io/badge/Axios-black?style=flat-square/>
 <img src="https://img.shields.io/badge/Sequelize-black?style=flat-square/>
-<img src="https://img.shields.io/badge/React-Native-black?style=flat-square&logo=React&logoColor=#61DAFB"/>
+<img src="https://img.shields.io/badge/ReactNative-black?style=flat-square&logo=React&logoColor=#61DAFB"/>
 <img src="https://img.shields.io/badge/Flutter-black?style=flat-square&logo=Flutter&logoColor=#02569B/>
