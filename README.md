@@ -18,8 +18,10 @@ velog : https://velog.io/@jsleemaster
 ----
 #Back-end
 ----
-<img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=#339933"/> <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=#000000/>
--------
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=#339933"/>
+<img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=#000000/>
+----
+          
 <img src="https://img.shields.io/badge/Axios-black?style=flat-square/>
 <img src="https://img.shields.io/badge/Sequelize-black?style=flat-square/>
 <img src="https://img.shields.io/badge/React-Native-black?style=flat-square&logo=React&logoColor=#61DAFB"/>
