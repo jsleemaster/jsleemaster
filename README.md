@@ -1,6 +1,8 @@
 ### ✌
 velog : https://velog.io/@jsleemaster
+<br/>
 blog : https://jsleemaster.tistory.com
+<br/>
 email: jsleemaster@gmail.com 
 
 ### Tech Stack
@@ -21,4 +23,4 @@ email: jsleemaster@gmail.com
 
 #App
 ----
-Flutter
+<img src ="https://img.shields.io/badge/Flutter-blue.svg?&style=for-the-badge&logo=Flutter&logoColor=#ffffff"/>
