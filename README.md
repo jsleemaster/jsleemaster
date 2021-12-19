@@ -1,9 +1,7 @@
-### Hello ✌
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsleemaster&count_bg=%236BD8FB&title_bg=%23AEAEAE&icon=abbrobotstudio.svg&icon_color=%23FFCC34&title=Totay+%2F+Total&edge_flat=false)](https://hits.seeyoufarm.com)
-
+### ✌
 velog : https://velog.io/@jsleemaster
-<br>
-<img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=#EA4335"/> : jsleemaster@gmail.com 
+blog : https://jsleemaster.tistory.com
+email: jsleemaster@gmail.com 
 
 ### Tech Stack
 ----
@@ -19,7 +17,8 @@ velog : https://velog.io/@jsleemaster
 #Back-end
 ----
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=#339933"/>
-<img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=#000000/>
+<img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=#000000"/>
+
 #App
 ----
 Flutter
