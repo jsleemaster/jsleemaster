@@ -20,7 +20,7 @@ email: jsleemaster@gmail.com
 ----
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=#339933"/>
 <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=#000000"/>
-
+<img src ="https://img.shields.io/badge/Mysql-white.svg?&style=for-the-badge&logo=Mysql&logoColor=#ffffff"/>
 #App
 ----
 <img src ="https://img.shields.io/badge/Flutter-blue.svg?&style=for-the-badge&logo=Flutter&logoColor=#ffffff"/>
