@@ -20,9 +20,9 @@ email: jsleemaster@gmail.com
 ----
 <a href='https://nodejs.org/ko/'><img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=#339933"/></a>
 <a href='https://expressjs.com/ko/'><img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=#000000"/></a>
-<a href='https://www.mysql.com/'><img src ="https://img.shields.io/badge/Mysql-white?&style=for-the-badge&logo=Mysql&logoColor=#ffffff"/></a>
+<a href='https://www.mysql.com/'><img src ="https://img.shields.io/badge/Mysql-white?&style=flat-square&logo=Mysql&logoColor=#ffffff"/></a>
 ----
 #App
 ----
-<a href='https://flutter.dev/?gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq51xoXEKjJxlPIUeQUDr1qBWHYbwcOghZI9DR1WHgZ_3p8sd3y9MEeoaAseyEALw_wcB&gclsrc=aw.ds'><img src ="https://img.shields.io/badge/Flutter-blue?&style=for-the-badge&logo=Flutter&logoColor=#ffffff"/></a>
-<a href='https://reactnative.dev/'><img src ="https://img.shields.io/badge/ReactNative-blue?&style=for-the-badge&logo=React&logoColor=#ffffff"/></a>
+<a href='https://flutter.dev/?gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq51xoXEKjJxlPIUeQUDr1qBWHYbwcOghZI9DR1WHgZ_3p8sd3y9MEeoaAseyEALw_wcB&gclsrc=aw.ds'><img src ="https://img.shields.io/badge/Flutter-blue?&style=flat-square&logo=Flutter&logoColor=#ffffff"/></a>
+<a href='https://reactnative.dev/'><img src ="https://img.shields.io/badge/ReactNative-blue?&style=flat-square&logo=React&logoColor=#ffffff"/></a>
