@@ -1,8 +1,6 @@
 ### ✌
 velog : https://velog.io/@jsleemaster
 <br/>
-blog : https://jsleemaster.tistory.com
-<br/>
 email: jsleemaster@gmail.com 
 
 ### Tech Stack
