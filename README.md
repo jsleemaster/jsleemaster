@@ -1,5 +1,5 @@
 ### ✌
-vlog : https://jsleemaster.tistory.com/
+blog : https://jsleemaster.tistory.com/
 <br/>
 velog : https://velog.io/@jsleemaster
 <br/>
