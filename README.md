@@ -22,5 +22,4 @@ email: jsleemaster@gmail.com
 ---
 #App
 ----
-<a href='https://flutter.dev/?gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq51xoXEKjJxlPIUeQUDr1qBWHYbwcOghZI9DR1WHgZ_3p8sd3y9MEeoaAseyEALw_wcB&gclsrc=aw.ds'><img src ="https://img.shields.io/badge/Flutter-blue?&style=flat-square&logo=Flutter&logoColor=#ffffff"/></a>
 <a href='https://reactnative.dev/'><img src ="https://img.shields.io/badge/ReactNative-blue?&style=flat-square&logo=React&logoColor=#ffffff"/></a>
