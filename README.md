@@ -3,8 +3,6 @@ blog : https://jsleemaster.tistory.com/
 <br/>
 email: jsleemaster@gmail.com 
 
-### Tech Stack
----
 #Front-end
 ----
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>
