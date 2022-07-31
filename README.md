@@ -1,5 +1,5 @@
 ### ✌
-blog : https://jsleemaster.tistory.com/
+blog : https://velog.io/@jsleemaster
 <br/>
 email: jsleemaster@gmail.com 
 
