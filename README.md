@@ -6,7 +6,7 @@ email: jsleemaster@gmail.com
 #Front-end
 ----
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=Typescript&logoColor=#3178C6"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-white?style=flat-square&logo=typescript&logoColor=#3178C6"/></a>
 <a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=#61DAFB"/></a>
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#000000"/></a>
 <a href="https://vuejs.org/" ><img src="https://img.shields.io/badge/Vue-green?style=flat-square&logo=Vue.js&logoColor=#4FC08D"/></a>
