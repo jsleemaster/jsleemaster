@@ -2,7 +2,8 @@
 blog : https://velog.io/@jsleemaster
 <br/>
 email: jsleemaster@gmail.com 
-<a hrtef="https://olive-emery-415.notion.site/593947357a824d3c950c965e6b3cc101?pvs=4"  rel="noreferrer noopener">프론트엔드 지식쌓기</a>
+<br/>
+<a href="https://olive-emery-415.notion.site/593947357a824d3c950c965e6b3cc101?pvs=4"  rel="noreferrer noopener">프론트엔드 지식쌓기</a>
 
 
 #Front-end
