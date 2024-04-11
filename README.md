@@ -3,9 +3,10 @@ blog : https://velog.io/@jsleemaster
 <br/>
 email: jsleemaster@gmail.com 
 <br/>
+study : 
+<a href="https://olive-emery-415.notion.site/593947357a824d3c950c965e6b3cc101?pvs=4"  rel="noreferrer noopener">프론트엔드 지식쌓기</a> , 
+<a href="https://olive-emery-415.notion.site/Flutter-Created-523ba2fc14c2436490a1b0ba5eeb575a?pvs=74"  rel="noreferrer noopener">플러터</a>
 <br/>
-<a href="https://olive-emery-415.notion.site/593947357a824d3c950c965e6b3cc101?pvs=4"  rel="noreferrer noopener">프론트엔드 지식쌓기</a>
-
 
 #Front-end
 ----
