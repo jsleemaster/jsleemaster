@@ -1,5 +1,5 @@
 ### ✌
-blog  : https://velog.io/@jsleemaster
+blog  : https://velog.io/@jsleemaster , https://picklee.vercel.app
 <br/>
 email : jsleemaster@gmail.com
 <br/>
